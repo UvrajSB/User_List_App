@@ -1,0 +1,2 @@
+rootProject.name = "User_List"
+include ':app'
